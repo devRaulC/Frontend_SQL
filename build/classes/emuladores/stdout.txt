@@ -1,0 +1,7 @@
+Reading config file C:\Users\Agares\Documents\NetBeansProjects\ProyectoFrontend\build\classes\emuladores\snes9x.conf.
+Saving	config file	C:\Users\Agares\Documents\NetBeansProjects\ProyectoFrontend\build\classes\emuladores\snes9x.conf
+No ROM file header found.
+Map_HiROMMap
+"SUPER MARIO KART" [checksum ok] HiROM, 4Mbits, ROM+RAM+BAT+DSP-1, NTSC, SRAM:16Kbits, ID:, CRC32:CD80DB86
+Saving	config file	C:\Users\Agares\Documents\NetBeansProjects\ProyectoFrontend\build\classes\emuladores\snes9x.conf
+Saving	config file	C:\Users\Agares\Documents\NetBeansProjects\ProyectoFrontend\build\classes\emuladores\snes9x.conf
